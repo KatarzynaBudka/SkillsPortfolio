@@ -8,3 +8,5 @@ Symatyków Turystyki ‘’Hawiarska Koliba” where I am helping to organize so
 In this directory, you will discover several posters and graphics that I have created, showcasing my artistic abilities and creativity.
 * Drought in Poland\
 Here you can find dashboard created using Dash, that displays the drought situation in Poland based on the rainfall data from various years.   
+
+![A beautiful sunset](https://github.com/KatarzynaBudka/SkillsPortfolio/blob/main/Drought%20in%20Poland/apka.png)
